@@ -1,4 +1,4 @@
-package com.wg.game.service.common;
+/*package com.wg.game.service.common;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,4 +16,4 @@ public class UserService
   private UserRepository userRepository;
 
  
-}
+}*/

@@ -1,4 +1,4 @@
-package com.wg.game.respository.common;
+/*package com.wg.game.respository.common;
 
 
 import java.util.List;
@@ -51,4 +51,4 @@ public  interface UserRepository extends JpaRepository<User, Long>, JpaSpecifica
   @Query
   User findByEmailAndResetPasswordKey(String email, String resetPasswordKey);
   
-}
+}*/

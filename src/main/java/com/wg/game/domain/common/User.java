@@ -1,4 +1,4 @@
-package com.wg.game.domain.common;
+/*package com.wg.game.domain.common;
 
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
@@ -228,4 +228,4 @@ public class User implements Serializable {
 		return "";
 	}
 	
-}
+}*/
